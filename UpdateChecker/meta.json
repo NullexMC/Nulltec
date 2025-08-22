@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+        "id": "0.0.1-INDEV",
+        "releasedAt": 1754038800000,
+    },
+    {
+        "id": "0.0.2-INDEV",
+        "releasedAt": 1755867600000,
+    }
+  ]
+}
